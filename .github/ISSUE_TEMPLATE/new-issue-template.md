@@ -2,7 +2,7 @@
 name: 'ACOM-CR'
 about: 'Create a CR issue for Customer ACOM.'
 title: 'CR - ACOM - [DESCRIPTION]'
-labels: ''
+labels: 'runbook , acom , iacs-wiki'
 assignees: ''
 ---
 
